@@ -31,3 +31,22 @@ header h1 {
   height: 100px;
   width: 100px;
 }
+
+.pad1 {
+  background: #60d394;
+}
+.pad2 {
+  background: #db3752;
+}
+.pad3 {
+  background: #9127c2;
+}
+.pad4 {
+  background: #6092d3;
+}
+.pad5 {
+  background: #d39860;
+}
+.pad6 {
+  background: #caeb52;
+}
